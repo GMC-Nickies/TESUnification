@@ -2,8 +2,8 @@ Nickies' CrossGame Add-On
 by Nickies 1/22/2023
 
 ____________________________________________
-| 										   |
-|	MORROWIND INSTALLATION INSTRUCTIONS:   |
+| 					   |
+|   MORROWIND INSTALLATION INSTRUCTIONS:   |
 |                                          |
 |__________________________________________|
 
@@ -57,8 +57,8 @@ I recommend holding on to the four lines you copied for the Oblivion installatio
 4. Remember to activate "NickiesCrossGameNew.esp" in your Morrowind Launcher or Mod Manager before beginning
 
 ____________________________________________
-| 										   |
-|	 OBLIVION INSTALLATION INSTRUCTIONS:   |
+| 					   |
+|    OBLIVION INSTALLATION INSTRUCTIONS:   |
 |                                          |
 |__________________________________________|
 
@@ -117,8 +117,8 @@ OBLIVION-ONLY INSTRUCTION:
 
 
 ____________________________________________
-| 										   |
-|	 GOOD CHECK TO SEE IF YOU'RE GOOD:     |
+|					   |
+|     GOOD CHECK TO SEE IF YOU'RE GOOD:    |
 |                                          |
 |__________________________________________|
 
@@ -136,8 +136,8 @@ fromMorrowindMisc.py
 And all of them should have your filepaths at the top of them instead of the originals, unless they happen to match.
 
 ____________________________________________
-| 										   |
-|	      TO SKIP THE BOSS FIGHT:		   |
+| 					   |
+|	  TO SKIP THE BOSS FIGHT:	   |
 |                                          |
 |__________________________________________|
 
@@ -145,8 +145,8 @@ In Morrowind, open the console and type "set NickiesCrossSaveCheck to 2". The re
 In Oblivion, open the console and type "set NickiesBossDefeatedGlobal to 1". The relevant things should appear in Vilverin as if you beat the boss in both Morrowind and Oblivion.
 
 ____________________________________________
-| 										   |
-|	 CROSS GAME TRANSFER BEST PRACTICES:   |
+| 					   |
+|    CROSS GAME TRANSFER BEST PRACTICES:   |
 |                                          |
 |__________________________________________|
 
