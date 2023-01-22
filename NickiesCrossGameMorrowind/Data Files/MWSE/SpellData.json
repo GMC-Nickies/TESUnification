@@ -1,0 +1,19 @@
+{
+    "Reset": {
+        "ResetJSON": 1
+    },
+    "Spell": {
+        "GameOrigin": 1,
+        "ReceivedThis": 1,
+        "Spell0Cost": 1,
+        "Spell0Effect0area": 0,
+        "Spell0Effect0attribute": 256,
+        "Spell0Effect0duration": 0,
+        "Spell0Effect0effect": -1,
+        "Spell0Effect0magnitude": 0,
+        "Spell0Effect0range": 0,
+        "Spell0LastEffectNumber": 0,
+        "Spell0Name": "Summon Nickies Black",
+        "Spell0Type": 0
+    }
+}
